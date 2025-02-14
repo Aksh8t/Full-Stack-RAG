@@ -74,7 +74,6 @@ deno run --allow-net frontend/main.tsx
 ```
 [ User ] → [ React Frontend ] → [ Deno API ] → [ LlamaIndex ]
 ```
-![Architecture](https://via.placeholder.com/800x400.png?text=Architecture+Diagram)
 
 ---
 
@@ -94,9 +93,3 @@ deno run --allow-net frontend/main.tsx
 Feel free to submit a **pull request** or report issues in the [Issues](https://github.com/your-repo/issues) tab!
 
 ---
-
-## 📝 License
-This project is **MIT licensed**. See [LICENSE](LICENSE) for details.
-
-💡 *Happy Coding!*
-
